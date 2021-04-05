@@ -1,0 +1,60 @@
+
+body{
+	background: #232323;
+}
+
+.square{
+	background: purple;
+	width: 30%;
+	margin: 1.66%;
+	padding-bottom: 30%;
+	float: left;
+
+}
+
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+	
+}
+
+h1{
+	color: white;
+	justify-content: center;
+}
+/*
+#ss{
+	background: blue;
+	text-align: center;
+	margin: 0;}
+
+
+.nav{
+	text-align: center;
+	justify-content: space-between;
+}
+
+#hh{
+	max-width: 700px;
+	justify-content: center;
+	align-items: center;
+}
+
+.row{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.col-2{
+	
+	background: red;
+}
+
+#yy{
+	  width: 30%;
+    padding-bottom: 30%; 
+    align-items: center;
+    justify-content: center;
+}*/

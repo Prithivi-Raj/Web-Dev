@@ -1,0 +1,58 @@
+h1{
+	color: darkorchid;
+	background: red;
+
+border: 2px  solid rgb(0,255,0);
+
+/*border: rgb(0,255,0);
+border-width: 2px;
+border-style: solid;
+*/
+}
+
+body{
+
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRllzEO9J7ASavQ8V5GOCrhoYQ2T_8IYY38X0hJgtbSZV6_iTS1) ;
+    
+    background-size: cover;
+}
+
+p{
+	color: pink;
+}
+
+#maami {
+background: blue;
+	color: yellow;
+	padding:20px 1px 20px 100px ;
+	border: 6px solid green;
+}
+
+.mama{
+
+	border: 3px solid blue;
+}
+
+a : link {
+color: blue;
+
+}
+
+a: visited {
+color: yellow;
+
+}
+
+ul h1{
+border: 10px dashed green;
+
+}
+
+li[type="text"]{
+	border: 20px dashed blue;
+}
+
+a:nth-of-type(2){
+	border: 20px dashed red;
+
+}

@@ -1,0 +1,14 @@
+body {
+	padding-top: 70px;
+}
+.jumbotron{
+	color: #2c9e50;
+}
+
+a{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #2c9e50;
+}

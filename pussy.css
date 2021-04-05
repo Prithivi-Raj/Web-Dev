@@ -1,0 +1,22 @@
+#mama{
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 12px red;
+}
+
+body{
+	background: url(https://imagevars.gulfnews.com/2019/07/20/MS-Dhoni_16c0e955558_large.jpg);
+	background-size: cover;
+	background-position: center;
+	color: white;
+
+}
+
+html{
+	height: 100%;
+}
+h1{
+	font-weight: 800;
+	font-size: 5em;
+	color: white;
+}

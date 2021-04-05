@@ -1,0 +1,49 @@
+body{
+    background-color: #f9d9d5;
+    font-family: "Nunito" ,sans-serif;
+}
+
+#jj{
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#jj .navbar-brand{
+    color: red;
+}
+#jj .nav-link{
+    color: white;
+    
+}
+
+#jj .nav-link:hover{
+    color: red;
+}
+
+#oo{
+    color: red;
+}
+
+#ee h1{
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+
+@media(maxwidth:1400px){
+    #ee h1{
+        font-weight: 100;
+        font-size: 2rem;
+    }
+}
+
+.blurb h2{
+    font-weight: 100;
+    font-size: 2rem;
+    color: red;
+}
+
+.blurb .lead{
+    line-height: 2;
+    font-weight: 100;
+    font-size: 1.25rem;
+}
